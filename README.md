@@ -21,7 +21,7 @@ Para una explicación más detallada del ataque, la topología, el funcionamient
 
 [Ver documentación técnica profesional](docs/documentacion-tecnica-profesional.pdf)
 
-Ruta directa del archivo: `docs/MichaelRobles_2025-0845_Documentacion-tecnica-profesional-DHCP-Spoofing_P2.pdf`
+Ruta directa del archivo: `docs/documentacion-tecnica-profesional.pdf`
 
 ## Aviso de uso responsable
 
